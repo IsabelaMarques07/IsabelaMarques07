@@ -1,4 +1,4 @@
-![banner-git](https://user-images.githubusercontent.com/61291155/89348168-7b3e6280-d682-11ea-8e70-43505df06ea2.png)
+
 
 
 ## Olá pessoal! 👋
