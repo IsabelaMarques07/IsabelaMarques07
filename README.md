@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá pessoal! 👋
 
 <!--
 **IsabelaMarques07/IsabelaMarques07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Apaixonada por tecnologia, estou sempre procurando automatizar tarefas através dela.
+Adoro criar, seja na área da informática ou da arte. Ver algo, que estava apenas no campo das ideias, ser colocado em prática é incrivel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Sobre mim: 
+- 🎓 Graduando Sistemas da informação
+- 💼 Estou à procura de novas oportunidades no mercado de trabalho
+- 💻 Me aprofundando em Javascript no momento.
+- 👩‍💻 Posso contribuir com CSS e HTML.
+- 🎸 Amo tocar violão, pintar quadros e assitir filmes e séries.
+
+Você pode entrar em contato comigo através: 
+- 📧 do email: 
+- 🟦 do Linkedin: 
+
