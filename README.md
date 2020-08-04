@@ -1,7 +1,5 @@
-# Olá pessoal! 👋
+## Olá pessoal! 👋
 
-<!--
-**IsabelaMarques07/IsabelaMarques07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 <br> Apaixonada por tecnologia, estou sempre procurando automatizar tarefas através dela.</br>
 <br> Adoro criar, seja na área da informática ou da arte. Ver algo, que estava apenas no campo das ideias, ser colocado em prática é incrivel.</br>
