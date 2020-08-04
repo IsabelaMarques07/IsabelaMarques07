@@ -14,6 +14,6 @@ Adoro criar, seja na área da informática ou da arte. Ver algo, que estava apen
 - 🎸 Amo tocar violão, pintar quadros e assitir filmes e séries.
 
 Você pode entrar em contato comigo através: 
-- 📧 do email: 
-- 🟦 do Linkedin: 
+- 📧 do Email: dev.isabelamarques@gmail.com
+- 🟦 do Linkedin: [LinkedIn](https://www.linkedin.com/in/isabela-marques-dias/) <br>
 
