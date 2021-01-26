@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/61291155/105898576-5fe05e80-5ff8-11eb-9819-7445c494a090.png" width="350px" align="right" alt="Astronauta">
+<img src="https://user-images.githubusercontent.com/61291155/105898723-8acab280-5ff8-11eb-86f8-571208c41457.png" width="350px" align="right" alt="Astronauta">
 
 - 🎓 Graduando Sistemas da informação
 - 💙 Apaixonada por tecnologia
