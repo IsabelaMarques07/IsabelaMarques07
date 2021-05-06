@@ -9,7 +9,7 @@
 - 💻 Me aprofundando em Javascript no momento.
 - 👩‍💻 Posso contribuir com CSS e HTML.
 
-### Conta em que compartilho projetos pessoais e dicas de tecnologia
+### Conta em que compartilho projetos pessoais e dicas de tecnologia:
 - 📱 https://www.instagram.com/isa.marques.dev/
 
 ### Você pode entrar em contato comigo através: 
