@@ -3,7 +3,7 @@
 
 ## 🔎 Um pouco sobre mim:
 
-- 🎓 Graduando Sistemas da informação
+- 🎓 Graduando Sistemas de informação
 - 💙 Apaixonada por tecnologia
 - 💼 Estou à procura de oportunidades no mercado de trabalho
 - 💻 Me aprofundando em Javascript no momento.
