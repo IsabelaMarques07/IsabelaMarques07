@@ -5,7 +5,7 @@
 
 - 🎓 Graduando Sistemas de informação
 - 💙 Apaixonada por tecnologia
-- 💼 Estou à procura de oportunidades no mercado de trabalho
+- 💼 Estagiária em Desenvolvimento de Sistemas
 - 💻 Me aprofundando em Javascript no momento.
 - 👩‍💻 Posso contribuir com CSS e HTML.
 
