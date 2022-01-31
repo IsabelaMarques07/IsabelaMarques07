@@ -6,8 +6,8 @@
 - 🎓 Graduando Sistemas de informação
 - 💙 Apaixonada por tecnologia
 - 💼 Estagiária em Desenvolvimento de Sistemas
-- 💻 Me aprofundando em Javascript no momento.
-- 👩‍💻 Posso contribuir com CSS e HTML.
+- 💻 Me aprofundando em React no momento.
+- 👩‍💻 Posso contribuir com HTML, CSS e Javascript.
 
 ### Conta em que compartilho projetos pessoais e dicas de tecnologia:
 - 📱 https://www.instagram.com/isa.marques.dev/
