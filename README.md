@@ -3,7 +3,7 @@
 
 ## 🔎 Um pouco sobre mim:
 
-- 🎓 No 5º semestre de Sistemas de informação
+- 🎓 No 6º semestre de Sistemas de informação
 - 💙 Apaixonada por tecnologia
 - 💼 Estagiária em Desenvolvimento de Sistemas
 - 💻 Me aprofundando em React no momento.
