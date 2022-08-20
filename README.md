@@ -7,7 +7,6 @@
 - 💙 Apaixonada por tecnologia
 - 💼 Estagiária em Desenvolvimento de Sistemas
 - 💻 Me aprofundando em React no momento.
-- 👩‍💻 Projetinho que estou criando no momento: <a href="https://github.com/IsabelaMarques07/aquafy">Aquafy</a> (com Next.js e API do Spotify)
 
 ### Conta em que compartilho projetos pessoais e dicas de tecnologia:
 - 📱 https://www.instagram.com/isa.marques.dev/
