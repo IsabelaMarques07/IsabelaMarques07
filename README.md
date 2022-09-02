@@ -6,7 +6,7 @@
 - 🎓 No 6º semestre de Sistemas de informação
 - 💙 Apaixonada por tecnologia
 - 💼 Estagiária em Desenvolvimento de Sistemas
-- 💻 Me aprofundando em React no momento.
+- 💻 Me aprofundando em Java e React no momento.
 
 ### Conta em que compartilho projetos pessoais e dicas de tecnologia:
 - 📱 https://www.instagram.com/isa.marques.dev/
