@@ -6,7 +6,7 @@
 - 🎓 No 6º semestre de Sistemas de informação
 - 💙 Apaixonada por tecnologia
 - 💼 Estagiária em Desenvolvimento de Sistemas
-- 💻 Me aprofundando em Java e Clojure no momento.
+- 💻 Me aprofundando em <a href="https://github.com/IsabelaMarques07/sprint-22">Java</a>, <a href="https://github.com/IsabelaMarques07/formacao-clojure">Clojure</a> e <a href="https://github.com/IsabelaMarques07/app-financas-flutter">Flutter</a> no momento (links com alguns repositórios).
 
 ### Conta em que compartilho projetos pessoais e dicas de tecnologia:
 - 📱 https://www.instagram.com/isa.marques.dev/
