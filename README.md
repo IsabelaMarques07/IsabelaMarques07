@@ -13,4 +13,4 @@
 
 ### Você pode entrar em contato comigo através: 
 - 📧 do Email: dev.isabelamarques@gmail.com
-- 🟦 do Linkedin: [LinkedIn](https://www.linkedin.com/in/isabela-marques-dias/) <br>
+- 🟦 do Linkedin: [LinkedIn](https://www.linkedin.com/in/isabelamarques07/) <br>
