@@ -14,7 +14,3 @@
 ### Você pode entrar em contato comigo através: 
 - 📧 do Email: dev.isabelamarques@gmail.com
 - 🟦 do Linkedin: [LinkedIn](https://www.linkedin.com/in/isabela-marques-dias/) <br>
-
-<div>
- <img src="https://github.com/IsabelaMarques07/IsabelaMarques07/blob/output/github-contribution-grid-snake.svg">
-</div>
