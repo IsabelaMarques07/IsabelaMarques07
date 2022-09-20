@@ -9,8 +9,8 @@
 - 💻 Me aprofundando em <a href="https://github.com/IsabelaMarques07/sprint-22">Java</a>, <a href="https://github.com/IsabelaMarques07/formacao-clojure">Clojure</a> e <a href="https://github.com/IsabelaMarques07/app-financas-flutter">Flutter</a> no momento (links com alguns repositórios).
 
 ### Conta em que compartilho projetos pessoais e dicas de tecnologia:
-- 📱 https://www.instagram.com/isa.marques.dev/
+- 📱 <a href="https://www.instagram.com/isa.marques.dev/"> Instagram @isa.marques.dev</a>
 
 ### Você pode entrar em contato comigo através: 
 - 📧 do Email: dev.isabelamarques@gmail.com
-- 🟦 do Linkedin: [LinkedIn](https://www.linkedin.com/in/isabelamarques07/) <br>
+- 🟦 do LinkedIn: [Link do perfil ](https://www.linkedin.com/in/isabelamarques07/) <br>
