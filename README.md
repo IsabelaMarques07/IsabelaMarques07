@@ -6,7 +6,7 @@
 - 🎓 No 6º semestre de Sistemas de informação
 - 💙 Apaixonada por tecnologia
 - 💼 Estagiária em Desenvolvimento de Sistemas
-- 💻 Me aprofundando em <a href="https://github.com/IsabelaMarques07/sprint-22">Java</a>,React e <a href="https://github.com/IsabelaMarques07/app-financas-flutter">Flutter</a> no momento (links com alguns repositórios).
+- 💻 Me aprofundando em <a href="https://github.com/IsabelaMarques07/sprint-22">Java</a>, React e <a href="https://github.com/IsabelaMarques07/app-financas-flutter">Flutter</a> no momento (links com alguns repositórios).
 
 ### Conta em que compartilho projetos pessoais e dicas de tecnologia:
 - 📱 <a href="https://www.instagram.com/isa.marques.dev/"> Instagram @isa.marques.dev</a>
