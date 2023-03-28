@@ -3,7 +3,7 @@
 
 ## 🔎 Um pouco sobre mim:
 
-- 🎓 No 6º semestre de Sistemas de informação
+- 🎓 No 7º semestre de Sistemas de informação
 - 💙 Apaixonada por tecnologia
 - 💼 Estagiária em Desenvolvimento de Sistemas
 - 💻 Me aprofundando em <a href="https://github.com/IsabelaMarques07/sprint-22">Java</a>, React e <a href="https://github.com/IsabelaMarques07/app-financas-flutter">Flutter</a> no momento (links com alguns repositórios).
