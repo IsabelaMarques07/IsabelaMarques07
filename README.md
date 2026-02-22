@@ -1,16 +1,16 @@
 
 <img src="https://user-images.githubusercontent.com/61291155/105898723-8acab280-5ff8-11eb-86f8-571208c41457.png" width="350px" align="right" alt="Astronauta">
 
-## 🔎 Um pouco sobre mim:
+## 🔎 A little bit about me:
 
-- 🎓 No 7º semestre de Sistemas de informação
-- 💙 Apaixonada por tecnologia
-- 💼 Estagiária em Desenvolvimento de Sistemas
-- 💻 Me aprofundando em <a href="https://github.com/IsabelaMarques07/sprint-22">Java</a>, MySQL e <a href="https://github.com/IsabelaMarques07/app-financas-flutter">Flutter</a> no momento (links com alguns repositórios).
+- 🎓 B.S. in Information Systems
+- 💙 Passionate about technology
+- 💼 Software Engineer
+- 💻 Java 21, SpringBoot, MongoDB, Azure, OCI, AI, and lots of coffee
 
-### Conta em que compartilho projetos pessoais e dicas de tecnologia:
-- 📱 <a href="https://www.instagram.com/isa.marques.dev/"> Instagram @isa.marques.dev</a>
+### Sharing my studies on my blog
+- 📱 <a href="https://backendtobasics.substack.com/"> Backend to Basics</a>
 
-### Você pode entrar em contato comigo através: 
-- 📧 do Email: dev.isabelamarques@gmail.com
-- 🟦 do LinkedIn: [Link do perfil ](https://www.linkedin.com/in/isabelamarques07/) <br>
+### Let's connect: 
+- 📧 Email: dev.isabelamarques@gmail.com
+- 🟦 LinkedIn: [Profile link](https://www.linkedin.com/in/isabelamarques07/) <br>
