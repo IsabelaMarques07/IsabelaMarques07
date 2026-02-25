@@ -11,6 +11,9 @@
 ### Sharing my studies on my blog
 - 📱 <a href="https://backendtobasics.substack.com/"> Backend to Basics</a>
 
+###  My Lab: Where I put my studies to the test
+- 🧪 <a href="https://isabelamarques07.github.io/my-lab/"> My Lab </a>
+
 ### Let's connect: 
 - 📧 Email: dev.isabelamarques@gmail.com
 - 🟦 LinkedIn: [Profile link](https://www.linkedin.com/in/isabelamarques07/) <br>
